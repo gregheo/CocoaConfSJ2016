@@ -7,5 +7,7 @@ Here’s what you’ll find in this repository:
 * The slides
 * Sample playgrounds and project from the live coding parts of the talk
 
+You can check out the slides on [Speaker Deck](https://speakerdeck.com/gregheo/scouting-swift-3) if you prefer browsing over there.
+
 Feel free to get in touch with me if you have any questions!
 
